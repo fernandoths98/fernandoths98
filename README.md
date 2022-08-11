@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando Teguh
-- 👀 I’m interested in Android Programmer
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Android Programming
+- 👀 I’m interested in Mobile Programmer
+- 🌱 I’m currently learning Java, React Native, Node Js
+- 💞️ I’m looking to collaborate on Mobile Programming
 - 📫 How to reach me follow my instagram on : fernandoths98
